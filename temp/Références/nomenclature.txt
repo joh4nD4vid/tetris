@@ -1,0 +1,7 @@
+tramino-I
+tramino-O
+tramino-T
+tramino-L
+tramino-J
+tramino-Z
+tramino-S
